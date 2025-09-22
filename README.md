@@ -19,4 +19,3 @@ O objetivo foi aprender a **declarar variáveis, somar valores, calcular médias
 
 - C#  
 - .NET SDK  
-- Microsoft Learn  
